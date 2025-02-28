@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
@@ -30,19 +29,19 @@
 
 #### 📊 *Supermarket Sales Analysis (Python)*
 - *Objective:* Analyzed sales trends and customer behavior using *Python, Matplotlib, and Seaborn*.  
-- **[🔗 View Project](https://github.com/Akshadakambale/Supermarket-Sales-Analysis)**  
+- **[🔗 View Project](https://github.com/Akshadakambale/Python_project)**  
 
 #### 📉 *Customer Churn Analysis (Power BI)*
 - *Objective:* Identified key churn drivers using *Power BI dashboards and DAX*.  
-- **[🔗 View Project](https://github.com/Akshadakambale/Customer-Churn-Analysis)**  
+- **[🔗 View Project](https://github.com/Akshadakambale/powerbi_project)**  
 
 #### 🩺 *Cardiovascular Disease Prediction (Machine Learning)*
 - *Objective:* Developed a predictive model using *Random Forest, Logistic Regression, and SMOTE for data balancing*.  
-- **[🔗 View Project](https://github.com/Akshadakambale/Cardiovascular-Disease-Prediction)**  
+- **[🔗 View Project](https://github.com/Akshadakambale/Machine_Learning_project)**  
 
 #### 📊 *HR Analytics*
 - *Objective:* Analyzed workforce data to identify *attrition trends and performance factors*.  
-- **[🔗 View Project](https://github.com/Akshadakambale/HR-Analytics)**  
+- **[🔗 View Project](https://github.com/Akshadakambale/HR-ANALYTICS-DASHBOARD)**  
 
 ---
 
